@@ -1,0 +1,15 @@
+input {
+    margin: 0.4%;
+}
+
+button {
+    margin: 0.4%;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    border-radius: 10%;
+}
+
+.done {
+    text-decoration: line-through;
+}
